@@ -88,7 +88,9 @@ analytix/
 | Container | Docker + Docker Compose |
 
 ---
+## Demo
 
+[![Watch Demo](https://img.youtube.com/vi/C6vMQj1Oun0/0.jpg)](https://youtu.be/SV5E75SuZj4)
 ## 📄 License
 
 MIT
